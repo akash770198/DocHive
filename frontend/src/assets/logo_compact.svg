@@ -1,0 +1,14 @@
+
+<svg width="217" height="46" viewBox="0 0 217 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .logo-text {
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 28px;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+    }
+  </style>
+  <rect width="217" height="46" fill="white"/>
+  <text x="16" y="32" class="logo-text" fill="#1E3A8A">DocHive</text>
+  <circle cx="130" cy="22" r="3.5" fill="#3B82F6" />
+</svg>
