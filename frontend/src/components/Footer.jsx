@@ -39,7 +39,7 @@ const Footer = () => {
             {/* Copyright text */}
             <div>
                 <hr />
-                <p className='py-5 text-sm text-center'>Copyright 2024@ DocHive - All Right Reserved</p>
+                <p className='py-5 text-sm text-center'>Copyright 2025@ DocHive - All Right Reserved</p>
             </div>
         </div>
     )
